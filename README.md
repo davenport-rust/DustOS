@@ -1,4 +1,4 @@
-# RustOS [![Build Status](https://travis-ci.org/davenport-rust/DustOS.svg?branch=master)](https://travis-ci.org/davenport-rust/DustOS)
+# DustOS [![Build Status](https://travis-ci.org/davenport-rust/DustOS.svg?branch=master)](https://travis-ci.org/davenport-rust/DustOS)
 
 Building a small Operating System using Rust for learning syntax and OS essentials.
 

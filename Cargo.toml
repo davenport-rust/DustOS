@@ -1,0 +1,7 @@
+[package]
+name = "dust_os"
+version = "0.1.0"
+authors = ["Christopher Davenport <chris@christopherdavenport.tech>"]
+
+[lib]
+crate-type = ["staticlib"]
